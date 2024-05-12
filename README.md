@@ -1,2 +1,159 @@
 # BaiduDisk-Qr-Login-Tenant-2.0
-百度网盘扫码登录，远程扫码，多租户版本
+# 百度网盘扫码登录，远程扫码，多租户版本
+
+# 功能过多，无法一一介绍，简单描述，文档更新也不及时，时刻在更新迭代，只作为参考使用
+#了解更多：
+# 联系作者：fifteenyang@qq.com（备注百度网盘扫码2.0）
+
+<img width="200" alt="image" src="https://github.com/zxyyang/BaiduDisk-Qr-Login-Tenant-2.0/assets/50910542/36e9abe7-0f3f-4bb4-b9af-693529bd5d59">
+
+
+## 特色功能
+## 1. 多模版支持（可后台设置多套扫码模版）
+<img width="1038" alt="image" src="https://github.com/zxyyang/BaiduDisk-Qr-Login-Tenant-2.0/assets/50910542/1968af43-9713-4b7f-ae2f-9e6b60e2281f">
+<img width="1039" alt="image" src="https://github.com/zxyyang/BaiduDisk-Qr-Login-Tenant-2.0/assets/50910542/03becdbb-16af-4640-8689-7aa58ecd7405">
+## 2.自助换号功能（发布的卡密可以设置可以换号的次数，账号出问题用户可以自助换号）新加地址上传扫码，更快更便捷
+<img width="985" alt="image" src="https://github.com/zxyyang/BaiduDisk-Qr-Login-Tenant-2.0/assets/50910542/b5221710-e39f-40b5-8da0-ce52cf0383d0">
+
+## 广告位（可以提供给商户自己合作推广）支持图片，链接，跳转等
+<img width="997" alt="image" src="https://github.com/zxyyang/BaiduDisk-Qr-Login-Tenant-2.0/assets/50910542/d8885ddb-8116-4077-9ea3-8d4cf205bee2">
+
+## 多状态管理（账号不足、卡密过期、将单独提示，并且有位置可以设置公告，方便用户通过过期的页面进来快速去购买）
+<img width="1713" alt="image" src="https://github.com/zxyyang/BaiduDisk-Qr-Login-Tenant-2.0/assets/50910542/ca5b7f45-8702-4a61-b050-8708be5a1c8a">
+<img width="1712" alt="image" src="https://github.com/zxyyang/BaiduDisk-Qr-Login-Tenant-2.0/assets/50910542/4776db4d-d7ce-415d-9eff-99b6dba3ed81">
+
+## 多租户（可以出租本系统，按照生成卡密或者时间进行收费，所有数据全部隔离，相当于别人可以找你不用部署直接购买使用你的系统，但是互相不影响，并且有独立的域名等，每张卡密都可以抽成）
+<img width="1715" alt="image" src="https://github.com/zxyyang/BaiduDisk-Qr-Login-Tenant-2.0/assets/50910542/879490f8-b5b2-4551-a57d-41176b512303">
+<img width="1715" alt="image" src="https://github.com/zxyyang/BaiduDisk-Qr-Login-Tenant-2.0/assets/50910542/9a23bbb9-785d-46cc-b168-5983f5db91c1">
+
+## 租户积分卡充值 自助核销（卡密的形式购买续费，核销）
+<img width="1715" alt="image" src="https://github.com/zxyyang/BaiduDisk-Qr-Login-Tenant-2.0/assets/50910542/1565f48a-066f-48c9-9acd-c6be91453d02">
+<img width="1477" alt="image" src="https://github.com/zxyyang/BaiduDisk-Qr-Login-Tenant-2.0/assets/50910542/5b711acd-4756-4fed-8c9b-18ab27c48080">
+
+## 算法和自动话部分 
+1. 批量导入导出 对接发卡网 （实现所有操作批量话，账号管理一体，自动入分组、生成分组、拉取信息）
+2. 自动换号，自动获取账号会员情况 （卡密绑定账号分组，启用时按照算法分配账号，如果账号出问题，自动换可用的账号，保障分组内所有账号不会有账号有的用的多有的用的少）
+3. 自动检测账号是否异常 （自动从百度获取账号信息，检测cookie是否有问题，检测账号会员情况、获取账号信息，方便管理）
+4. 自动平均化分配账号 （分配账号按照算法，保证账号都是被平均使用）
+5. 记录追踪 （所有操作、使用情况记录）
+6. 临期账号自动引流池功能（设置一时间，距离这个时间到期的账号，进入到某一个分组，这个分组的卡密可以作为引流使用，最大化利用快过期账号，并且账号会自动分配，一张卡密多个账号随便切换）
+   <img width="1715" alt="image" src="https://github.com/zxyyang/BaiduDisk-Qr-Login-Tenant-2.0/assets/50910542/13b40bfa-d698-44fa-807d-ab5e86411b29">
+
+
+
+## 预计要加功能
+1. 自动踢设备下线
+2. 自动改密码，在线改密码
+3. 等。。。
+
+
+
+
+
+## 基础功能展示
+### 登录页 
+1. 管理员、各种角色、租户统一登录页面
+2. 验证码可设置是否开启
+<img width="1711" alt="image" src="https://github.com/zxyyang/BaiduDisk-Qr-Login-Tenant-2.0/assets/50910542/6a27baa4-74ad-4edf-b60a-1802aafded92">
+
+### 首页
+1. 上部分展示租户信息
+2. 积分（租户每生成一张卡密需要消耗积分）无积分需要充值否则无法使用
+3. 租户过期时间（过期时间内）
+4. 租户自定义域名（该租户的卡密使用可通过专属域名消费使用）
+5. 快速充值（租户充值积分，一次充值自动续费过期时间1年）
+6. 下班部分 数据统计（待完成）
+<img width="1716" alt="image" src="https://github.com/zxyyang/BaiduDisk-Qr-Login-Tenant-2.0/assets/50910542/1d461120-2d18-4ce4-96c0-0d9fb585638d">
+<img width="1519" alt="image" src="https://github.com/zxyyang/BaiduDisk-Qr-Login-Tenant-2.0/assets/50910542/f24ffb28-c74d-4de8-8fa9-c68648f69d0a">
+<img width="1504" alt="image" src="https://github.com/zxyyang/BaiduDisk-Qr-Login-Tenant-2.0/assets/50910542/54a833f4-c752-4d93-9e1d-cd1f0458d12a">
+
+
+### 租户管理
+1. 全量管理控制用户
+2. 租户的密码只能充值不能查看
+<img width="1716" alt="image" src="https://github.com/zxyyang/BaiduDisk-Qr-Login-Tenant-2.0/assets/50910542/7149d59c-26b2-429d-8d3e-47a60b8a8c5b">
+<img width="1716" alt="image" src="https://github.com/zxyyang/BaiduDisk-Qr-Login-Tenant-2.0/assets/50910542/ea1a8e37-d558-4ea4-9741-30801f6b6928">
+
+### 积分卡管理
+1. 可单张自定义、也可批量生成卡密
+2. 自动生成卡密不需要填写卡号，自动生成卡号
+3. 面额和积分1比1充值，但是具体价值多少钱自己决定，一般一积分1毛钱
+4. 全程记录使用者信息
+<img width="1716" alt="image" src="https://github.com/zxyyang/BaiduDisk-Qr-Login-Tenant-2.0/assets/50910542/70be1a20-28e7-4279-a482-3b6f5442daec">
+<img width="1483" alt="image" src="https://github.com/zxyyang/BaiduDisk-Qr-Login-Tenant-2.0/assets/50910542/1934bdf4-849d-4141-90f1-5a6bd6c3f0c2">
+<img width="1496" alt="image" src="https://github.com/zxyyang/BaiduDisk-Qr-Login-Tenant-2.0/assets/50910542/86ef2211-cd40-4024-b504-ea904656e754">
+
+### 网盘账号管理
+1. 批量导入、模版化导入、导出、自动更新检测账号功能
+2. 分组管理
+3. 账号导入功能，自动化，导入自动获取账号信息，可以指定分配账号导入到哪个已经有的分组，自动创建分组、自动按照导入时间生成账号分组
+<img width="1715" alt="image" src="https://github.com/zxyyang/BaiduDisk-Qr-Login-Tenant-2.0/assets/50910542/08d2477e-3d89-4344-8940-d40dcbf57c56">
+<img width="1510" alt="image" src="https://github.com/zxyyang/BaiduDisk-Qr-Login-Tenant-2.0/assets/50910542/ecde2d2d-b5b6-4168-b60f-66c2d9eeadef">
+<img width="1453" alt="image" src="https://github.com/zxyyang/BaiduDisk-Qr-Login-Tenant-2.0/assets/50910542/6fc5a728-f31e-4dad-bc6e-68b9d0473e04">
+<img width="1231" alt="image" src="https://github.com/zxyyang/BaiduDisk-Qr-Login-Tenant-2.0/assets/50910542/1a7b1c61-6bd4-4e70-94f8-0107d524739f">
+<img width="1335" alt="image" src="https://github.com/zxyyang/BaiduDisk-Qr-Login-Tenant-2.0/assets/50910542/d290ef9e-78f9-4d75-8c19-ea26010827b2">
+
+### 账号分组
+1. 账号分组管理账号和卡密管理
+2. 自定义的账池，可以配合自动功能，实现快过期的账号自动加入，使用该分组生成卡密可以作为免费使用，用作引流
+3. 分组概念避免账号单个出问题
+<img width="1716" alt="image" src="https://github.com/zxyyang/BaiduDisk-Qr-Login-Tenant-2.0/assets/50910542/5686621b-363d-41a2-a435-5b384a4f3d78">
+<img width="1716" alt="image" src="https://github.com/zxyyang/BaiduDisk-Qr-Login-Tenant-2.0/assets/50910542/ba44e9a1-ad88-493c-a4df-473cbb6b159d">
+
+### 套餐管理
+1.多种类型的套餐配置
+<img width="1716" alt="image" src="https://github.com/zxyyang/BaiduDisk-Qr-Login-Tenant-2.0/assets/50910542/3839b42c-e8ad-4a86-9349-08f5efbe3409">
+
+### 卡密管理
+1. 卡密基础管理
+2. 导入自定义卡密导入
+3. 导出功能，配合发卡网块度导入（按照租户的绑定的域名进行发卡）
+4. 一键复制功能
+5. 批量生成卡密（按照账号分组和套餐快速生成多张卡密）
+6. ⚠注意：生成的卡密是无状态的，没有使用之间不受账号套餐分组等变动而改变，理论就是就算没有号了这个卡密也不受影响未来有号自动
+7. 卡密的使用策略，当卡密第一次使用时候，自动从账号分组中获取一个账号（获取有算法加持，简答规则就是：优先使用为使用的并且可用的账号，如果都使用了，选择使用频率最小的账号，保证每个账号使用频次平均）
+8. 自动换号功能（如果用户使用期间内，分组内某个账号有问题，或会员到期，自动从分组按照上面策略重新获取卡密，如果未过期则不会换号）
+9. 自动检测账号状态，保证卡密使用期间，不会出现很多客服问题
+10. 卡密自动过期
+<img width="1716" alt="image" src="https://github.com/zxyyang/BaiduDisk-Qr-Login-Tenant-2.0/assets/50910542/ec17d081-11ad-4dca-93c7-dc105c0c82eb">
+<img width="1715" alt="image" src="https://github.com/zxyyang/BaiduDisk-Qr-Login-Tenant-2.0/assets/50910542/f2f271ab-f0ee-4c15-90a7-dee83c5699dd">
+<img width="1715" alt="image" src="https://github.com/zxyyang/BaiduDisk-Qr-Login-Tenant-2.0/assets/50910542/31b106ba-f5d8-4bae-8756-127579ef857e">
+<img width="1120" alt="image" src="https://github.com/zxyyang/BaiduDisk-Qr-Login-Tenant-2.0/assets/50910542/f14d5e98-982a-472b-a41c-d1d515af0e8b">
+
+### 使用记录
+1.记录用户 的换号、登录等操作记录
+<img width="1715" alt="image" src="https://github.com/zxyyang/BaiduDisk-Qr-Login-Tenant-2.0/assets/50910542/8eaf7295-a678-4ee0-a4d0-b82d094d0544">
+
+### 设置功能
+1. 扫码模版的选择，多套模版扫码界面选择，不同功能
+2. 公告、广告的设置、html格式
+3. 售后教程的设置
+<img width="1715" alt="image" src="https://github.com/zxyyang/BaiduDisk-Qr-Login-Tenant-2.0/assets/50910542/d0cf682f-d137-4f9d-a350-42a3a9077d4b">
+
+### 角色、权限、表单等系统管理功能
+<img width="1715" alt="image" src="https://github.com/zxyyang/BaiduDisk-Qr-Login-Tenant-2.0/assets/50910542/9af9d722-3447-4e72-978d-26c99a055cfc">
+<img width="1715" alt="image" src="https://github.com/zxyyang/BaiduDisk-Qr-Login-Tenant-2.0/assets/50910542/fea24a5e-e7a9-4770-8e29-7c28dfdbb861">
+<img width="1715" alt="image" src="https://github.com/zxyyang/BaiduDisk-Qr-Login-Tenant-2.0/assets/50910542/6ddb34e2-48d8-4a82-96c6-7dc8bbd12778">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
