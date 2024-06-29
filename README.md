@@ -74,6 +74,66 @@
 
 本系统适用于需大规模管理百度网盘账号的企业或商户，提供全面工具以优化账号管理和用户体验。
 
+# 更新日志
+更新时间：2024-06-29
+   1. 添加新功能，邮箱验证获取
+   2. 解决上号需要验证码验证风控问题
+   3. 限制单ip只能5秒获取1次
+   4. 安全问题，邮箱验证吗去除修改密码等安全性验证吗
+   5. 支持市面常用邮箱21+outlook （额外支持几乎所有邮箱类型）
+   6. 优化cookie的校验修正规则
+      <img width="1715" alt="image" src="https://github.com/zxyyang/BaiduDisk-Qr-Login-Tenant-2.0/assets/50910542/20bb7e5b-ad82-492b-b64c-b53c12b1dfbe">
+
+   支持的邮箱列表：
+   | 邮箱服务   | 中文名字         | 邮箱地址       |
+|------------|------------------|----------------|
+| GMAIL      | 谷歌邮箱         | `gmail.com`    |
+| OUTLOOK    | 微软邮箱         | `outlook.com`  |
+| YAHOO      | 雅虎邮箱         | `yahoo.com`    |
+| ICLOUD     | 苹果邮箱         | `icloud.com`   |
+| QQ         | QQ邮箱           | `qq.com`       |
+| 163        | 网易163邮箱      | `163.com`      |
+| HOTMAIL    | Hotmail邮箱      | `hotmail.com`  |
+| AOL        | AOL邮箱          | `aol.com`      |
+| YANDEX     | Yandex邮箱       | `yandex.com`   |
+| ZOHO       | Zoho邮箱         | `zoho.com`     |
+| GMX        | GMX邮箱          | `gmx.com`      |
+| MAIL.COM   | Mail.com邮箱     | `mail.com`     |
+| PROTONMAIL | ProtonMail邮箱   | `protonmail.com`|
+| TUTANOTA   | Tutanota邮箱     | `tutanota.com` |
+| FASTMAIL   | FastMail邮箱     | `fastmail.com` |
+| SINA       | 新浪邮箱         | `sina.com`     |
+| 126        | 网易126邮箱      | `126.com`      |
+| REDIFFMAIL | Rediffmail邮箱   | `rediffmail.com`|
+| LYCOS      | Lycos邮箱        | `lycos.com`    |
+| HUSHMAIL   | Hushmail邮箱     | `hushmail.com` |
+| RUNBOX     | Runbox邮箱       | `runbox.com`   |
+| BLUEMAIL   | BlueMail邮箱     | `bluemail.com` |
+| ZIMBRA     | Zimbra邮箱       | `zimbra.com`   |
+| MAIL.RU    | Mail.ru邮箱      | `mail.ru`      |
+| INBOX      | Inbox邮箱        | `inbox.com`    |
+| LAVABIT    | Lavabit邮箱      | `lavabit.com`  |
+| POSTEO     | Posteo邮箱       | `posteo.de`    |
+| KOLAB NOW  | Kolab Now邮箱    | `kolabnow.com` |
+| STARTMAIL  | StartMail邮箱    | `startmail.com`|
+| DISROOT    | Disroot邮箱      | `disroot.org`  |
+| OPENMAILBOX| OpenMailbox邮箱  | `openmailbox.org`|
+| VFEMAIL    | VFEmail邮箱      | `vfemail.net`  |
+| COUNTERMAIL| CounterMail邮箱  | `countermail.com`|
+| MAILFENCE  | Mailfence邮箱    | `mailfence.com`|
+| LUXSCI     | LuxSci邮箱       | `luxsci.com`   |
+| RISEUP     | Riseup邮箱       | `riseup.net`   |
+| NEOMAILBOX | Neomailbox邮箱   | `neomailbox.com`|
+| THEXYZ     | Thexyz邮箱       | `thexyz.com`   |
+| MIGADU     | Migadu邮箱       | `migadu.com`   |
+| POLARISMAIL| Polarismail邮箱  | `polarismail.com`|
+| ALIYUN     | 阿里云邮箱       | `aliyun.com`   |
+| 21CN       | 21CN邮箱         | `21cn.com`     |
+
+
+更新时间： 2024-6-20 
+   1. 更新风控规则，强行过风控算法，防止频繁
+
 ## 特色功能
 ## 1. 多模版支持（可后台设置多套扫码模版）
 <img width="1038" alt="image" src="https://github.com/zxyyang/BaiduDisk-Qr-Login-Tenant-2.0/assets/50910542/1968af43-9713-4b7f-ae2f-9e6b60e2281f">
