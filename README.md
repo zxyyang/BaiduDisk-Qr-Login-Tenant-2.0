@@ -82,6 +82,24 @@
 
 
 # 更新日志
+## 更新时间 2024-07-09
+## 更新自动更新账号状态，自动更新账号的COOKIE（解决现在百度升级不断掉线问题）
+   1. 需要注意这个更新是按照租户来的，需要给多个租户就要配置多个记录
+   2. 参数：主的租户ID是：00000000，设置： disk.updateAccount('00000000')
+   3. 这个比较消耗性能 且账号多的话是一个个更新比较慢，建议不要频率太高
+   4. <img width="851" alt="image" src="https://github.com/zxyyang/BaiduDisk-Qr-Login-Tenant-2.0/assets/50910542/21d2ee48-4322-4082-86ee-10eb92ee9ae5">
+   5. 表达柿 表示的就是，多久执行一次，自行百度或者用界面设置：
+   6. <img width="858" alt="image" src="https://github.com/zxyyang/BaiduDisk-Qr-Login-Tenant-2.0/assets/50910542/6145d09c-3d78-439d-8d1a-a7dfee698e9c">
+
+
+   5. <img width="1715" alt="image" src="https://github.com/zxyyang/BaiduDisk-Qr-Login-Tenant-2.0/assets/50910542/4c4e588d-9ee7-47e3-8227-f285b88501fe">
+   
+## 更新时间 2024-07-02
+   1. 添加自动吧账号分到某个分组（主要处理快过期的账号，可以自动把他们放到某个分组方便特殊处理或者，免费分享，吸引流量）
+   2. 参数是（多少小时算临期，临期分到哪个分组）例如：disk.checkAcc2GroupId(24,116) 代表：会员过期少于24小时的自动放到116这个分组ID的分组下
+   3. <img width="873" alt="image" src="https://github.com/zxyyang/BaiduDisk-Qr-Login-Tenant-2.0/assets/50910542/1b358467-0352-4422-9fe0-c2d8b85b897c">
+
+
 ## 更新时间 2024-06-29
  1. 添加验证码时间避免时间不匹配
     <img width="939" alt="image" src="https://github.com/zxyyang/BaiduDisk-Qr-Login-Tenant-2.0/assets/50910542/72eaa321-cb57-427d-b0c3-66fc330f8c53">
