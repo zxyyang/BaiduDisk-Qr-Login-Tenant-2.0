@@ -1,4 +1,4 @@
-# BaiduDisk-Qr-Login-Tenant-2.0
+![image](https://github.com/user-attachments/assets/43974baa-6a41-423c-a186-6d06dd049fa4)# BaiduDisk-Qr-Login-Tenant-2.0
 ### 百度网盘扫码登录，远程扫码，多租户版本
 *关键词：* 百度网盘扫码登录系统，远程登录系统，共享账号系统，多租户
 
@@ -21,17 +21,18 @@
 ## 更新时间2024-0827
 1. 性能优化，提升访问速度
 ## 更新时间2024-0802
-   1. 添加在线充值新用户会员活动（支持购买月卡/购买季卡） 同步更新租户使用一次扣一积分
+   1. 添加在线充值新用户会员活动（支持购买月卡/购买季卡）（⚠️注意：百度直接授权活动价格可能会变动） 同步更新租户使用一次扣一积分
+      ![image](https://github.com/user-attachments/assets/ef364b4c-e136-4df6-a0e7-30ab370ef16c)
       <img width="894" alt="image" src="https://github.com/user-attachments/assets/14bbf018-eabc-4a0a-b848-53fe5904be66">
       <img width="910" alt="image" src="https://github.com/user-attachments/assets/9f8e1aeb-3412-4d18-934e-3ef155a12695">
 
-   2. 升级更新用户信息（以前的接口存在5分钟延迟），现在秒更新用户会员状态（过期时间可能仍然有几分钟延迟）
+   3. 升级更新用户信息（以前的接口存在5分钟延迟），现在秒更新用户会员状态（过期时间可能仍然有几分钟延迟）
       <img width="331" alt="image" src="https://github.com/user-attachments/assets/c3302fad-5152-4539-b597-9e3df73d3657">
 
-   3. 添加单个账号更新状态
+   4. 添加单个账号更新状态
          <img width="606" alt="image" src="https://github.com/user-attachments/assets/0bf6e1c0-9ee1-459c-a6cd-031e7430c33c">
-   4. 升级分配账号算法
-   5. 支持账号分组配置-是否运行用户可自助接码功能，如果关闭则对应分组的账号卡密没有接码按钮
+   5. 升级分配账号算法
+   6. 支持账号分组配置-是否运行用户可自助接码功能，如果关闭则对应分组的账号卡密没有接码按钮
       <img width="949" alt="image" src="https://github.com/user-attachments/assets/3626d70a-f51d-4fab-a6e8-f19fac65e502">
       <img width="816" alt="image" src="https://github.com/user-attachments/assets/7bf66c46-f0ba-48f2-bb49-8987f5595fc0">
       <img width="775" alt="image" src="https://github.com/user-attachments/assets/a1c2b1c0-ad43-4185-b0a0-94a26f0075b9">
