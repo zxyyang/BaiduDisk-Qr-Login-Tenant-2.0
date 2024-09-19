@@ -11,7 +11,8 @@
 
 ### 功能过多，无法一一介绍，文档更新也不及时，时刻在更新迭代，
 ### 了解更多：
- 联系作者：fifteenyang@qq.com（2k左右能接受在添加！备注百度网盘扫码2.0）
+ 联系作者：fifteenyang@qq.com（备注百度网盘扫码2.0）
+ 
 <img width="200" alt="image" src="https://github.com/zxyyang/BaiduDisk-Qr-Login-Tenant-2.0/assets/50910542/36e9abe7-0f3f-4bb4-b9af-693529bd5d59">
 
 
