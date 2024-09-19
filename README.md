@@ -18,6 +18,36 @@
 
 
 # 更新日志
+
+## 更新时间 2024-9-19
+1. 快捷导入账号（多模式）
+<img width="1381" alt="image" src="https://github.com/user-attachments/assets/720fa10e-8bff-4727-9048-166825fe6d0f">
+<img width="841" alt="image" src="https://github.com/user-attachments/assets/55d3ef1c-77d1-4e8c-be81-5559e73f6b78">
+
+2. 快速导出 复制账号，导出txt
+   <img width="1431" alt="image" src="https://github.com/user-attachments/assets/0cac26a8-dbfc-4a94-8ad4-bc81499e3f27">
+  
+3. 在线手动修改密码
+   <img width="1473" alt="image" src="https://github.com/user-attachments/assets/c81e9501-2a86-41fb-b4e5-b1373e36b125">
+   <img width="542" alt="image" src="https://github.com/user-attachments/assets/06ef6229-ba55-4b9e-9815-f892e9418c7a">
+   <img width="593" alt="image" src="https://github.com/user-attachments/assets/cb6cba4b-1b00-4933-9247-2dd69418edd9">
+
+
+4.  在线自动修改密码（需要邮箱接码）
+   <img width="548" alt="image" src="https://github.com/user-attachments/assets/ef98b26d-1823-4fd9-9413-eee269e34ac0">
+
+5. 全自动批量修改密码（需要邮箱接码）
+    <img width="886" alt="image" src="https://github.com/user-attachments/assets/76b61f0d-b87e-49d7-935a-8b999b667c06">
+<img width="882" alt="image" src="https://github.com/user-attachments/assets/f60ccb73-2b42-4d77-b7a1-da68ca5ea742">
+
+6. 配置代理（修改密码ip上限）
+    配合修改密码限制账号数量使用！
+     <img width="1710" alt="image" src="https://github.com/user-attachments/assets/1da3e374-1f96-4aaf-830a-1e0d8b51069b">
+7. 清理无效卡密
+ <img width="1521" alt="image" src="https://github.com/user-attachments/assets/97caf19e-7214-4985-a9e5-6b4aa461ff47">
+
+     
+
 ## 更新时间2024-0827
 1. 性能优化，提升访问速度
 ## 更新时间2024-0802
