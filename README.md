@@ -1,21 +1,17 @@
 # BaiduDisk-Qr-Login-Tenant-2.0
 ### 百度网盘扫码登录，远程扫码，多租户版本
 *关键词：* 百度网盘扫码登录系统，远程登录系统，共享账号系统，多租户
-
-
-## 服务器推荐：https://www.007idc.cn/aff/GVGFOKTS
-
-# 功能过多，无法一一介绍，文档更新也不及时，时刻在更新迭代，
-## 了解更多：
- 联系作者：fifteenyang@qq.com（2k左右能接受在添加！备注百度网盘扫码2.0）
-
-<img width="200" alt="image" src="https://github.com/zxyyang/BaiduDisk-Qr-Login-Tenant-2.0/assets/50910542/36e9abe7-0f3f-4bb4-b9af-693529bd5d59">
-
-
+#
+#
 # 演示网站： https://bd2.zxyang.cn/login
+#### 支持租用、私有部署、源码、定开
+#
+#### 服务器推荐：https://www.007idc.cn/aff/GVGFOKTS
 
-
-
+### 功能过多，无法一一介绍，文档更新也不及时，时刻在更新迭代，
+### 了解更多：
+ 联系作者：fifteenyang@qq.com（2k左右能接受在添加！备注百度网盘扫码2.0）
+<img width="200" alt="image" src="https://github.com/zxyyang/BaiduDisk-Qr-Login-Tenant-2.0/assets/50910542/36e9abe7-0f3f-4bb4-b9af-693529bd5d59">
 
 
 
