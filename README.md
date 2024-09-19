@@ -3,7 +3,8 @@
 *关键词：* 百度网盘扫码登录系统，远程登录系统，共享账号系统，多租户
 #
 #
-# 演示网站： https://bd2.zxyang.cn/login
+### 演示网站： https://bd2.zxyang.cn/login
+### 管理员帐号 admin 密码 admin123 （方便他人操作，请不要随便删除）
 #### 支持租用、私有部署、源码、定开
 #
 #### 服务器推荐：https://www.007idc.cn/aff/GVGFOKTS
