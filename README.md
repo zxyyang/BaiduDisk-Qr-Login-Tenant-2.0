@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/43974baa-6a41-423c-a186-6d06dd049fa4)# BaiduDisk-Qr-Login-Tenant-2.0
+# BaiduDisk-Qr-Login-Tenant-2.0
 ### 百度网盘扫码登录，远程扫码，多租户版本
 *关键词：* 百度网盘扫码登录系统，远程登录系统，共享账号系统，多租户
 
