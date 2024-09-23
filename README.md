@@ -1,5 +1,5 @@
 # BaiduDisk-Qr-Login-Tenant-2.0
-### 百度网盘扫码登录，远程扫码，多租户版本
+### 百度网盘扫码登录，远程扫码，多租户版本，在线修改密码，在线提下线设备，自动接码，自动过验证，自动更新Cookie.....
 *关键词：* 百度网盘扫码登录系统，远程登录系统，共享账号系统，多租户
 #
 #
@@ -20,6 +20,16 @@
 
 
 # 更新日志
+## 更新时间 2024-9-23
+>1. 设备管理（自动获取设备管理需要的COOkie）
+   <img width="1473" alt="image" src="https://github.com/user-attachments/assets/e1e84220-86e2-4c1a-aa5d-8a6ce6765b61">
+
+>2在线提下线（自动过验证，自动更新Cookie）
+   <img width="1372" alt="image" src="https://github.com/user-attachments/assets/4b5cea85-dca0-4577-8f88-ea8c8e125806">
+   <img width="1373" alt="image" src="https://github.com/user-attachments/assets/28c1a113-6d43-4ff2-b050-544573ec6c19">
+
+>3.新增，导入，更新，定时更新COOKIE
+   <img width="1516" alt="image" src="https://github.com/user-attachments/assets/257c3247-3790-4f65-bdfc-afabe2016724">
 
 ## 更新时间 2024-9-19
 1. 快捷导入账号（多模式）
