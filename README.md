@@ -5,7 +5,6 @@
 #
 ### 演示网站： https://bd2.zxyang.cn/login
 ### 管理员帐号 admin 密码 admin123 （方便他人操作，请不要随便删除）
-<img width="1628" alt="image" src="https://github.com/user-attachments/assets/e450afe2-a85b-4c88-af0d-34aea7759b12">
 
 #### 支持租用、私有部署、源码、定开
 #
