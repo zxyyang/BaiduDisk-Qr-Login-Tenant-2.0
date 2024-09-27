@@ -21,6 +21,13 @@
 
 
 # 更新日志
+## 更新时间 2024-9-27
+1. 导入账号，更新账号，获取设备，自动上报设备COOKIE
+2. 强制修改本地设备信息，防设备被踢
+3. 添加COOKIE识别本设备
+4. 算法添加自动上报解锁🔓，自动重试上报设备ID，邮箱验证算法检测
+   <img width="1382" alt="image" src="https://github.com/user-attachments/assets/48c21693-1004-4519-b801-1226bf7fe5e0">
+
 ## 更新时间 2024-9-23
 >1. 设备管理（自动获取设备管理需要的COOkie）
    <img width="1473" alt="image" src="https://github.com/user-attachments/assets/e1e84220-86e2-4c1a-aa5d-8a6ce6765b61">
