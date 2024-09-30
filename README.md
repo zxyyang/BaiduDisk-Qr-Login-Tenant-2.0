@@ -21,6 +21,17 @@
 
 
 # 更新日志
+## 更新时间 2024-09-30
+1. 卡密有过期的自动提出卡密有效期间登录的设备
+2. 添加踢出记录页面
+   ![image](https://github.com/user-attachments/assets/fdc43340-8bf5-49ce-9803-3cf1af9e3c6f)
+
+4. 到期仍然显示过期提示
+5. 卡密到期立马失效卡密
+6. 修复卡密状态问题bug
+7. 定时扫描过期卡密
+![image](https://github.com/user-attachments/assets/f56d5447-511f-4cc6-bd2c-26eab2a9bd95)
+
 ## 更新时间 2024-9-27
 1. 导入账号，更新账号，获取设备，自动上报设备COOKIE
 2. 强制修改本地设备信息，防设备被踢
