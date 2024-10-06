@@ -37,6 +37,8 @@
 4. 添加导出简单卡密功能
 5.修复导出文件错误问题
 6.其余算法和功能简单优化
+<img width="1674" alt="image" src="https://github.com/user-attachments/assets/8a5f014d-d668-42ef-a6fa-d52bcdfafb0a">
+
 
 ## 更新时间 2024-09-30
 1. 卡密有过期的自动提出卡密有效期间登录的设备
