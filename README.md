@@ -21,6 +21,30 @@
 
 
 # 更新日志
+## 更新时间2024-10-11
+1. ⚠️扫码界面添加自动过风控（解决下图问题）取消接码（史诗级更新防止别人改密码，开关分组配置可控，限制5分钟1个ip只能点一次）
+   ![image](https://github.com/user-attachments/assets/b5ca4186-ecce-442b-bf09-819c95ef989c)
+
+   <img width="751" alt="image" src="https://github.com/user-attachments/assets/e59769d2-737f-4c3e-b45b-3ab4e5560796">
+2. 账号位置添加自动过风控验证
+   <img width="285" alt="image" src="https://github.com/user-attachments/assets/3046dcd0-ed93-4c19-a5ef-4d0a6697f65f">
+3. 扫码界面自动过风控验证
+   
+4. 账号位置添加获取邮箱验证码功能
+   <img width="1130" alt="image" src="https://github.com/user-attachments/assets/a041b35e-fb9a-475e-bc05-0ea742bd8a3a">
+5. 自动生成卡密 成功后返回一个列表 打开可以复制弹窗
+   <img width="928" alt="image" src="https://github.com/user-attachments/assets/f72738e1-9a74-460d-9699-c4253855f2f7">
+6. 优化套餐填写的校验
+7. 拖拽二维码登录
+8. 添加新扫码模版
+    <img width="629" alt="image" src="https://github.com/user-attachments/assets/24a4a42b-a24d-4520-b58d-435602cf51a2">
+    ![image](https://github.com/user-attachments/assets/7841933c-3d87-43df-9e92-a24ab7de3c67)
+    ![image](https://github.com/user-attachments/assets/0c72b3ca-7b92-40aa-8637-94fdcf475651)
+9. 其余优化，和前端 调整
+
+
+
+
 ##更新时间： 2024-10-06
 1. 修复系统操作下载问题
 2. 优化UI显示简洁
