@@ -11,6 +11,7 @@
 #### 支持租用、私有部署、源码、定开
 #
 #### 服务器推荐：https://www.007idc.cn/aff/GVGFOKTS
+<img width="1459" alt="image" src="https://github.com/user-attachments/assets/07d7bd34-c67b-4ab9-a691-aab82d54c82c">
 
 ### 功能过多，无法一一介绍，文档更新也不及时，时刻在更新迭代，
 ### 了解更多：
