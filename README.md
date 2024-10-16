@@ -44,7 +44,14 @@
 9. 其余优化，和前端 调整
 
 
+##更新时间 2024-10-16
+1. 添加扫码入库账号 （可以入库同行链接）
+   <img width="539" alt="image" src="https://github.com/user-attachments/assets/e09795e2-e41c-4070-aa3a-5df7a83731b1">
 
+2. 添加手机验证码入库账号
+   <img width="528" alt="image" src="https://github.com/user-attachments/assets/edba9302-a41a-4a21-b554-35db201a8752">
+
+3. 优化自动踢下线功能，分组添加控制时间 同一个时间段内不重复踢设备
 
 ##更新时间： 2024-10-06
 1. 修复系统操作下载问题
