@@ -32,6 +32,11 @@
 
 4. 优化自动踢下线功能，分组添加控制时间 同一个时间段内不重复踢设备
 5. 所有发送验证码添加代理ip，防止频繁操作
+6. 添加新模版
+7. <img width="757" alt="image" src="https://github.com/user-attachments/assets/f8bf162a-d270-4433-87c3-0f085e0d8666">
+<img width="379" alt="image" src="https://github.com/user-attachments/assets/562478e8-90ab-4b0d-a2b9-1f63272d5868">
+
+
 
 ## 更新时间2024-10-11
 1. ⚠️扫码界面添加自动过风控（解决下图问题）取消接码（史诗级更新防止别人改密码，开关分组配置可控，限制5分钟1个ip只能点一次）
