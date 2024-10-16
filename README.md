@@ -22,6 +22,16 @@
 
 
 # 更新日志
+
+## 更新时间 2024-10-16
+1. 添加扫码入库账号 （可以入库同行链接）
+2. 添加手机验证码入库账号
+ <img width="604" alt="image" src="https://github.com/user-attachments/assets/4318fb37-da2c-476e-b571-f880bc7777fd">
+
+   <img width="1004" alt="image" src="https://github.com/user-attachments/assets/ab3c1dc0-436a-4f86-87cb-0f65c7ab479b">
+
+4. 优化自动踢下线功能，分组添加控制时间 同一个时间段内不重复踢设备
+
 ## 更新时间2024-10-11
 1. ⚠️扫码界面添加自动过风控（解决下图问题）取消接码（史诗级更新防止别人改密码，开关分组配置可控，限制5分钟1个ip只能点一次）
    ![image](https://github.com/user-attachments/assets/b5ca4186-ecce-442b-bf09-819c95ef989c)
