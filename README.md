@@ -40,7 +40,8 @@
 <img width="699" alt="image" src="https://github.com/user-attachments/assets/77daab05-653a-4dbc-bf10-d5d293b22ebe">
 
 8. 优化提设备，获取信息，更新等接口
-9. 其他功能优化，接口优化等。。。。
+9. 自动识别登录有效设备，超过8个不在分配，防止风控
+10. 其他功能优化，接口优化等。。。。
 
 
 
