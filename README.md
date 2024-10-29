@@ -22,6 +22,38 @@
 
 
 # 更新日志
+##更新时间 2024-10-29
+1. 掉线强制登录功能
+<img width="1493" alt="image" src="https://github.com/user-attachments/assets/e3d8af3c-842c-4305-a474-a74eb87b6f83">
+
+2. 优化自动代理访问问题
+3. 修复代理扫描任务
+4. 添加系统版本号
+<img width="735" alt="image" src="https://github.com/user-attachments/assets/f19c8e74-482d-4f00-9291-28b3a7309fbf">
+
+5. 删除网盘文件，目前是清空文件
+<img width="1044" alt="image" src="https://github.com/user-attachments/assets/86907aa8-72d8-4d8f-b6ba-45e647efe4ce">
+
+6. 更新读取邮件功能（提高识别准确率，邮箱商问题没有办法）
+
+7. 添加账号显示绑定卡密数量
+<img width="699" alt="image" src="https://github.com/user-attachments/assets/77daab05-653a-4dbc-bf10-d5d293b22ebe">
+
+8. 优化提设备，获取信息，更新等接口
+9. 其他功能优化，接口优化等。。。。
+
+
+
+
+##更新时间 2024-10-24
+1. 代理功能更新添加自动获取api方式，分割符用空格或者换行 ，
+<img width="545" alt="image" src="https://github.com/user-attachments/assets/647794cf-d141-4482-890d-f1f06448ccbf">
+2. 添加了测试ip是否可用功能
+<img width="1452" alt="image" src="https://github.com/user-attachments/assets/86006a8c-11fd-4ee2-b258-54c0d78f122f">
+3. ip添加了多次重试和轮换策略，优先使用api提取 提取三次如果都失败就单ip随机获取，所以尽量不要配置太多不可用的ip 忽然会卡
+
+
+
 
 ## 更新时间 2024-10-16
 1. 添加扫码入库账号 （可以入库同行链接）
