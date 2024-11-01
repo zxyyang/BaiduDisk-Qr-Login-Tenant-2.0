@@ -22,6 +22,23 @@
 
 
 # 更新日志
+##更新时间 2024-11-1
+1. 封号状态检测
+2. 封号后不在分配账号
+   <img width="1475" alt="image" src="https://github.com/user-attachments/assets/1c830652-effe-40d2-8cb0-f2020b7bedf9">
+3. 封号结束后自动解除（定时任务，可能存在延迟）
+4. 更新账号自动会更新封号情况
+5. 检测风控状态，风控不分配，解除恢复（显示风控状态，是否已经验证，预计解除时间）
+   <img width="515" alt="image" src="https://github.com/user-attachments/assets/f0943076-a123-4c1e-8d3d-8c9946197b73">
+6. 添加手机改密码接口（基本百分百改成功）
+   <img width="480" alt="image" src="https://github.com/user-attachments/assets/dc3e0c28-e7ae-4232-bd4c-18eaec5ba485">
+   <img width="864" alt="image" src="https://github.com/user-attachments/assets/31773d90-82a9-45c1-b346-b5830e1c7206">
+7. 界面优化功能
+    <img width="1713" alt="image" src="https://github.com/user-attachments/assets/e9df33c8-2ff2-474e-ad3c-ffe69e877c9d">
+8. 强制登录 更新cookie权限
+9. 自动更新Cookie 升级
+10. 更新账号状态，正常-正常使用正常分配 不启用不分配（非会员或者有封号，风控情况，不参与分配）异常（cookie有问题）
+
 ##更新时间 2024-10-29
 1. 掉线强制登录功能
 <img width="1493" alt="image" src="https://github.com/user-attachments/assets/e3d8af3c-842c-4305-a474-a74eb87b6f83">
