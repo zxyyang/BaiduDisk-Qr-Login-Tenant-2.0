@@ -23,6 +23,22 @@
 
 
 # 更新日志
+## 更新时间 2024-11-28
+1. 强制获取拖拽二维码的登录地址
+2. 记录日志优化
+3. 登录限制只能登录百度网盘二维码（其他百度产品类型不支持）
+4. 优化提示代理报错
+
+## 更新时间： 2024-11-15
+1. 后台管理员添加清空租户所有信息功能
+2. 后台管理员添加 自动设置账号刷新任务功能
+3. 后台管理员添加 查询租户账号数量和卡密数量功能
+<img width="1502" alt="image" src="https://github.com/user-attachments/assets/30cdf3f9-441e-4907-b57a-889f0ecf77b2">
+4. 重写使用日志页面，添加更多信息，支持搜索
+<img width="1699" alt="image" src="https://github.com/user-attachments/assets/e06acc0d-b28d-44f6-89fc-65ef6ec48a79">
+5. 重写换号逻辑也走最少原则
+
+
 ## 更新时间：2024-11-11
 1. 批量强制登录功能
   <img width="863" alt="image" src="https://github.com/user-attachments/assets/583f1879-3ad3-49b1-b019-8aad5230823d">
