@@ -16,7 +16,8 @@
 
 ### 功能过多，无法一一介绍，文档更新也不及时，时刻在更新迭代，
 ### 了解更多：
-<img width="1670" alt="image" src="https://github.com/user-attachments/assets/40522d20-bda8-4d10-85b9-feaff339180b">
+<img width="1685" alt="image" src="https://github.com/user-attachments/assets/37688dda-d41f-41da-9bef-75272dcc4b0c">
+
 
 
  联系作者：fifteenyang@qq.com（备注百度网盘扫码2.0）
