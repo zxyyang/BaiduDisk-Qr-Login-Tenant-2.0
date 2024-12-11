@@ -1,4 +1,4 @@
-# 百度网盘扫码登录系统
+<img width="615" alt="image" src="https://github.com/user-attachments/assets/90085b4f-89f4-4e87-afe6-3d4cdb4dcc90"># 百度网盘扫码登录系统
 ### 百度网盘扫码登录系统，远程扫码，多租户版本，在线修改密码，在线提下线设备，自动接码，自动过验证，自动更新Cookie.....
 *关键词：* 百度网盘扫码登录系统，远程登录系统，共享账号系统，多租户
 #
@@ -27,6 +27,32 @@
 
 
 # 更新日志
+## 2024-12-11
+1. 强制登录自动过登录限制
+   <img width="923" alt="image" src="https://github.com/user-attachments/assets/8fb5773b-b6aa-42e3-b0ea-f32642d29393">
+
+2. 限制百度网盘扫码登录（开启则只能百度网盘二维码扫描登录）
+3. 更新卡密限制ip/城市 （开启，限制一个卡密只能登录同一个二维码城市，或者同一个ip使用，建议只开城市，或者同时开启，城市限制的二维码的位置，ip是打开扫描的）
+   <img width="346" alt="image" src="https://github.com/user-attachments/assets/fa2dcf69-f8fe-4d98-ae04-52469e0b3c83">
+4. 添加批量过风控
+   <img width="1097" alt="image" src="https://github.com/user-attachments/assets/e33ed165-c6c4-4c4d-9526-f0e40ac68ad6">
+
+5. 导入账号限制取消
+6. 卡密生成限制取消
+7. 提高并发最高到20
+8. 批量修改账号状态或者账号分组
+   <img width="615" alt="image" src="https://github.com/user-attachments/assets/7cb40b61-5027-4114-bafc-66db626194d3">
+<img width="812" alt="image" src="https://github.com/user-attachments/assets/c68db39a-588a-4861-abe9-f50c95d1d449">
+
+9. 批量修改卡密功能
+    <img width="995" alt="image" src="https://github.com/user-attachments/assets/cb393ab2-cac9-43ab-a943-93cb58c2bff2">
+
+10. 下载导出功能修复，修复下载少一个的问题和excle下载报错
+10. 优化已知的一些bug
+11. 启动优化
+12. 提高扫码登录账号验证数量10->20
+
+
 ## 更新时间 2024-11-23
 1. 修改密码更新
 2. 邮箱更新
