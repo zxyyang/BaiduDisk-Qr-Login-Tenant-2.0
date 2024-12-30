@@ -1,4 +1,4 @@
-# 百度网盘扫码登录系统
+# 火星--百度网盘扫码登录系统
 ### 百度网盘扫码登录系统，远程扫码，多租户版本，在线修改密码，在线提下线设备，自动接码，自动过验证，自动更新Cookie.....
 *关键词：* 百度网盘扫码登录系统，远程登录系统，共享账号系统，多租户
 #
@@ -27,6 +27,12 @@
 
 
 # 更新日志
+## 2024-12-29
+UI升级，正式命名
+<img width="1680" alt="image" src="https://github.com/user-attachments/assets/5a84d3b2-9aaa-46ed-8dbf-6a86fa19e878" />
+<img width="1675" alt="image" src="https://github.com/user-attachments/assets/019bd195-baad-496e-b4f0-755c9a013d56" />
+
+
 ## 2024-12-27
 1. 同步百度更新，刷新cookie功能更新
 2. 升级全部接口cookie参数获取
