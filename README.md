@@ -4,20 +4,16 @@
 #
 #
 ### 演示网站：
-> 🌐地址（香港）：https://bd2.zxyang.cn/login
 > 🌐地址（国内）：https://bd1.zxyang.cn/login
 ### 管理员帐号 admin 密码 admin123 （方便他人操作，请不要随便删除）
 
 #### 支持租用、私有部署、源码、定开
-#
+
 #### 服务器推荐：https://www.007idc.cn/aff/GVGFOKTS
 
 
 
 ### 功能过多，无法一一介绍，文档更新也不及时，时刻在更新迭代，
-### 了解更多：
-<img width="1685" alt="image" src="https://github.com/user-attachments/assets/37688dda-d41f-41da-9bef-75272dcc4b0c">
-
 
 
  联系作者：fifteenyang@qq.com（备注百度网盘扫码2.0）
