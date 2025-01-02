@@ -23,6 +23,16 @@
 
 
 # 更新日志
+## 2025-01-02
+1. 升级网盘会员充值接口
+2. 升级代理缓存功能
+3. 添加卡密类型（平均分配，不验证模式）主要是为了非网盘业务使用，生成的卡密里面平均分配账号，并且不限制登录是否为网盘会员等，只要ck在线即可，但是依然受在线设备数量限制。
+4. 平均分配规则（按照绑定卡密数量最少开始一个一个分配，如果生成卡密没有绑定账号，就从分组最少的5个中随机选择一个）
+<img width="1103" alt="image" src="https://github.com/user-attachments/assets/6edab1d8-80ec-4aa9-879b-cbc2d6aeef5d" />
+<img width="1063" alt="image" src="https://github.com/user-attachments/assets/4c342838-1c92-4f3e-bbf7-aa13f6b5c9e6" />
+
+
+
 ## 2024-12-29
 UI升级，正式命名
 <img width="1680" alt="image" src="https://github.com/user-attachments/assets/5a84d3b2-9aaa-46ed-8dbf-6a86fa19e878" />
