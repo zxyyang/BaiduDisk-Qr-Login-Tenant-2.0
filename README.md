@@ -23,6 +23,15 @@
 
 
 # 更新日志
+## 2025-01-08
+1. 更新导出自动格式
+   <img width="953" alt="image" src="https://github.com/user-attachments/assets/3b493a9e-0290-4685-98f7-8c4454f5d4c6" />
+2. 更新批量充值+自动切换二维码充值
+<img width="599" alt="image" src="https://github.com/user-attachments/assets/f2934264-1e34-49ab-8753-d5570c7ca52b" />
+<img width="895" alt="image" src="https://github.com/user-attachments/assets/eab4ebfb-70d6-44b4-aa3e-62e683636561" />
+3. 其他定制功能更新
+
+
 ## 2025-01-02
 1. 升级网盘会员充值接口
 2. 升级代理缓存功能
