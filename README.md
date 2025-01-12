@@ -23,6 +23,18 @@
 
 
 # 更新日志
+## 2025-01-12
+1. 所有选择框支持快速搜索，优化联动
+   <img width="748" alt="image" src="https://github.com/user-attachments/assets/79fb186a-e2e2-45da-937c-08eff90ea00c" />
+
+   <img width="779" alt="image" src="https://github.com/user-attachments/assets/b1375984-3d70-44dd-806b-eb90f63365ce" />
+2. 修改展示昵称为账号（避免有的账号没有昵称不好查询）
+ <img width="1324" alt="image" src="https://github.com/user-attachments/assets/7f4a666e-de64-40cf-aaf9-7c10c15197e0" />
+   
+
+   
+
+
 ## 2025-01-08
 1. 更新导出自动格式
    <img width="953" alt="image" src="https://github.com/user-attachments/assets/3b493a9e-0290-4685-98f7-8c4454f5d4c6" />
