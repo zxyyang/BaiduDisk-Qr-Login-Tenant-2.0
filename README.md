@@ -23,6 +23,13 @@
 
 
 # 更新日志
+## 2025-01-14
+1. 账号、卡密 添加排序功能
+   <img width="1443" alt="image" src="https://github.com/user-attachments/assets/94ebd18d-aba8-435f-916f-2793932e05e8" />
+2.搜索等切换到模糊搜索
+3.添加批量清空文件功能
+<img width="821" alt="image" src="https://github.com/user-attachments/assets/b7effc18-43d6-42ad-a404-75326782f728" />
+
 ## 2025-01-12
 1. 所有选择框支持快速搜索，优化联动
    <img width="748" alt="image" src="https://github.com/user-attachments/assets/79fb186a-e2e2-45da-937c-08eff90ea00c" />
