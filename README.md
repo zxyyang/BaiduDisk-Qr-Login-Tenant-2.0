@@ -24,6 +24,28 @@
 
 # 更新日志
 
+## 2025-02-09
+1. 自助换号没有次数不显示按钮
+2. 添加删除文件接码按钮还有次数(只能接收5分钟内的删除文件的验证码)
+ <img width="333" alt="image" src="https://github.com/user-attachments/assets/ec19f325-cfc4-4c38-ab75-1c2d70ea3632" />
+   <img width="1216" alt="image" src="https://github.com/user-attachments/assets/efe640f3-5d8f-45df-b73a-18fc64194d61" />
+   <img width="629" alt="image" src="https://github.com/user-attachments/assets/fc0655ac-7d66-4af6-af26-673185bf2e85" />
+3. 更新扫描登录功能   
+4. 修复卡密激活时间不对的问题
+5. 导入账号并发执行（性能极致提升）
+6. 批量登陆或者改密码，风险验证，加个把失败的再次执行的按钮
+   <img width="849" alt="image" src="https://github.com/user-attachments/assets/82cbfbca-5d3c-4da4-b4a8-3a8b02c25328" />
+
+6.回卡功能（回卡就是重制这张卡密但是不换卡密）
+<img width="1679" alt="image" src="https://github.com/user-attachments/assets/4a4b1895-2571-4cd5-a41f-57835ed2f13e" />
+
+7.强制登录可以选择是否自动过限制
+<img width="953" alt="image" src="https://github.com/user-attachments/assets/998a748c-5742-432b-ad19-518c1c4e9ef0" />
+9.添加新的简洁扫码登录界面模版
+<img width="344" alt="image" src="https://github.com/user-attachments/assets/caf43ce1-c9fb-44eb-8b4f-86d2aa6046b0" />
+<img width="1286" alt="image" src="https://github.com/user-attachments/assets/989c3d1e-b075-4886-9b90-8588d9293914" />
+
+
 ## 2025-01-22
 1. ⚠️更新自动刷新CK功能（解决最近掉线严重问题）
 2. 更新扫码登录优化，提高到1秒内上号（其他就是代理问题）
