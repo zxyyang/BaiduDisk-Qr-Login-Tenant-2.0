@@ -23,6 +23,10 @@
 
 
 # 更新日志
+## 2025-2-14
+1. 全网首发，自动过实名风控修改密码接口
+ <img width="455" alt="image" src="https://github.com/user-attachments/assets/3881873a-c18c-4ef5-8ef7-815288bcbc87" />
+
 
 ## 2025-02-09
 1. 自助换号没有次数不显示按钮
