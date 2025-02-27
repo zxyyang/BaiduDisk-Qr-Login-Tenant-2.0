@@ -16,9 +16,13 @@
 ### 功能过多，无法一一介绍，文档更新也不及时，时刻在更新迭代，
 
 
- ## 价目表联系作者：[bd.hxxt.cc/ggHome](https://bd.hxxt.cc/ggHome)
- 
 
+
+ ## 价目表联系作者：
+ [bd.hxxt.cc/ggHome](https://bd.hxxt.cc/ggHome)
+
+ 
+ 
 
 
 
