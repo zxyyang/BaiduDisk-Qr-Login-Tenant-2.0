@@ -27,6 +27,14 @@
 
 
 # 更新日志
+## 2025-02-27
+1. 去掉租户的域名区分
+2. 添加域名前缀修改
+![image](https://github.com/user-attachments/assets/39f58b8c-3094-435a-ab29-b199041d86c2)
+![image](https://github.com/user-attachments/assets/25b602bb-8b88-4e00-8259-0118cb2b5a68)
+3. 添加主页功能
+![image](https://github.com/user-attachments/assets/b941a662-a1d8-41fc-80fc-1bc9777035bd)
+
 ## 2025-02-25
 1. 区分手动刷新，自动刷新，打开卡密刷新等各种线程排队
 2. 添加实时更新账号功能，自动分配时候更新一批账号用来分配，扫码登录时候也会更新一次掉线的账号
