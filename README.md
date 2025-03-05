@@ -27,6 +27,13 @@
 
 
 # 更新日志
+## 2025-03-05
+1. 更新账号支持短信接码
+   <img width="867" alt="image" src="https://github.com/user-attachments/assets/5bf097ad-34f0-40be-8a5f-f0973600d2b6" />
+<img width="572" alt="image" src="https://github.com/user-attachments/assets/4a375fb4-8218-481a-9731-990215a762a5" />
+
+3. 所有功能支持短信验证
+4. 更新最新的快速登录接口
 ## 2025-02-27
 1. 去掉租户的域名区分
 2. 添加域名前缀修改
