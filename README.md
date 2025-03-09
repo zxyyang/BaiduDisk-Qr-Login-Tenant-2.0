@@ -27,6 +27,11 @@
 
 
 # 更新日志
+## 2025-03-09
+1. 更新适配更多接码渠道账号
+2. 更新邮箱号登录
+   <img width="825" alt="image" src="https://github.com/user-attachments/assets/d4d55a08-0408-4ff0-9708-b6a214758979" />
+
 ## 2025-03-05
 1. 更新账号支持短信接码
    <img width="867" alt="image" src="https://github.com/user-attachments/assets/5bf097ad-34f0-40be-8a5f-f0973600d2b6" />
