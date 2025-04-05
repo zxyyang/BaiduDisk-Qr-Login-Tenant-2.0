@@ -27,12 +27,17 @@
 
 
 # 更新日志
+#更新时间：2025-04-04
+1. 全类型自动过扫码验证（账号密码->邮箱->手机）按照顺序过验证
+2. 导入支持手机类型账号带邮箱
+<img width="962" alt="image" src="https://github.com/user-attachments/assets/631fd3ac-fda5-4836-9f4a-9aaa5afdfa30" />
+
 #更新时间：2025-04-01
  1. 等验证码时候拉长的35秒 2. 用户扫码一定用你自己的代理ip不再使用服务器ip（避免出现安全验证），如果没有代理ip文案：IP连接失败，请重试！
- 2. 卡密限制去掉！从总数变为同时存在有效卡密（为了更好统计数据）
- 3. 自动分配账号时候也卡密过期的绑定账号不算卡密数量
- 4. 卡密的地区/还有登录地区，自动转化为省份级别的！！！
- 5. 添加新功能数据看版，支持按照日或者月/日模式分时间
+ 3. 卡密限制去掉！从总数变为同时存在有效卡密（为了更好统计数据）
+ 4. 自动分配账号时候也卡密过期的绑定账号不算卡密数量
+ 5. 卡密的地区/还有登录地区，自动转化为省份级别的！！！
+ 6. 添加新功能数据看版，支持按照日或者月/日模式分时间
 <img width="1086" alt="image" src="https://github.com/user-attachments/assets/aa5c51a7-3d18-45cc-a134-1aa168fc61bf" />
 <img width="1080" alt="image" src="https://github.com/user-attachments/assets/faf50d65-c334-4649-a37c-def93361cd25" />
 <img width="1086" alt="image" src="https://github.com/user-attachments/assets/588a9066-1a4c-4c0f-82f2-93335df80b6c" />
