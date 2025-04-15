@@ -3,9 +3,6 @@
 *关键词：* 百度网盘扫码登录系统，远程登录系统，共享账号系统，多租户
 #
 #
-### 演示网站：
-> 🌐地址（国内）：https://bd1.zxyang.cn/login
-### 管理员帐号 yanshi 密码 yanshi （方便他人操作，请不要随便删除）
 
 #### 支持租用、私有部署、源码、定开
 
@@ -27,6 +24,16 @@
 
 
 # 更新日志
+# 更新时间： 2025-04-15
+1. 添加新登录接口（自带内部打码模型）
+   <img width="588" alt="image" src="https://github.com/user-attachments/assets/c8c1ff2e-c25e-4f8d-84eb-fe3e61afa6f2" />
+   <img width="417" alt="image" src="https://github.com/user-attachments/assets/4dc21adc-8e46-48fd-b33f-1b09d5784b27" />
+2. 更新账号自动刷新CK（获取更高权限的CK）
+3. 提高模型加载速度
+4. 修改手机接码模型   
+
+
+
 #更新时间：2025-04-04
 1. 全类型自动过扫码验证（账号密码->邮箱->手机）按照顺序过验证
 2. 导入支持手机类型账号带邮箱
