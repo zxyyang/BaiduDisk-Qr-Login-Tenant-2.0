@@ -24,6 +24,17 @@
 
 
 # 更新日志
+# 更新时间： 2025-05-08
+1. 添加批量导入静态ip
+ <img width="750" alt="image" src="https://github.com/user-attachments/assets/27818fa6-1160-4e0f-a224-24e3025950bb" />
+2. 添加代理ip指定场景
+   <img width="956" alt="image" src="https://github.com/user-attachments/assets/32b9d85e-2565-4c4f-88de-a51154ea4ffc" />
+ 
+# 更新时间 ： 2025-05
+1. 全面升级扫码
+2. 全面升级登录、改密码等
+3. 全面适配最新的百度接口，具体细节不描述
+
 # 更新时间： 2025-04-15
 1. 添加新登录接口（自带内部打码模型）
    <img width="588" alt="image" src="https://github.com/user-attachments/assets/c8c1ff2e-c25e-4f8d-84eb-fe3e61afa6f2" />
