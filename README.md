@@ -24,6 +24,24 @@
 
 
 # 更新日志
+# 更新时间： 2025-05-22
+1. 大部分功能不说明具体内容，防止同行抄袭
+2. 添加换绑手机功能（目前只支持美国）
+   首先去代理中添加一个换绑用的代理IP（必须美国动态，换绑ip有限制）
+   <img width="1183" alt="image" src="https://github.com/user-attachments/assets/e2d1316d-0786-4628-a5a9-f83ab71703e8" />
+   选择要换绑的号然后点击啊换绑的按钮
+   <img width="812" alt="image" src="https://github.com/user-attachments/assets/6926d50a-5a94-4f5d-96e2-74b766241660" />
+   <img width="1225" alt="image" src="https://github.com/user-attachments/assets/004bcf8c-312c-460e-92f2-d78391507dae" />
+   <img width="1589" alt="image" src="https://github.com/user-attachments/assets/484f1ec6-fc65-4787-bfda-aa2230287e9a" />
+   <img width="1121" alt="image" src="https://github.com/user-attachments/assets/ae194d0f-c45c-4bfc-924a-a51a13ea7341" />
+   <img width="821" alt="image" src="https://github.com/user-attachments/assets/7b79b9ba-565c-401e-a997-f6bb5c9d53ac" />
+
+
+
+
+
+
+
 # 更新时间： 2025-05-08
 1. 添加批量导入静态ip
  <img width="750" alt="image" src="https://github.com/user-attachments/assets/27818fa6-1160-4e0f-a224-24e3025950bb" />
